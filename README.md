@@ -1,6 +1,6 @@
 # 🚀 Desafios de Programação em Java
 
-Este repositório contém uma série de desafios de programação para reforçar os conceitos de **Java Básico** e **Programação Orientada a Objetos (POO)**.
+Este repositório contém uma série de desafios de programação para reforçar os conceitos de **Java Básico** e **Programação Orientada a Objetos (POO)**
 
 ## ☕ Módulo 1: Java Básico e Estruturas de Dados
 
